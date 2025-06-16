@@ -5,7 +5,8 @@
 	"git": {
 		"targetServers": [],
 		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-datamodeller",
-		"testServers": []
+		"testServers": [],
+		"branch": "lts24"
 	},
 	"name": "neptunesoftware-dxp-abb-datamodeller",
 	"description": null,
@@ -84,5 +85,6 @@
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": [],
-	"theme_ui5": []
+	"theme_ui5": [],
+	"webapp": []
 }

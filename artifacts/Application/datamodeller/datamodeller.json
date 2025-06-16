@@ -668,7 +668,7 @@
 														{
 															"attribute": "icon",
 															"grouping": "Properties",
-															"value": "/media/root/datamodeller/tables_black.png",
+															"value": "sap-icon://nep/table",
 															"script": "",
 															"translation": []
 														},
@@ -1315,7 +1315,7 @@
 														{
 															"attribute": "icon",
 															"grouping": "Properties",
-															"value": "/media/root/datamodeller/packages_black.png",
+															"value": "sap-icon://nep/package",
 															"script": "",
 															"translation": []
 														},
@@ -2216,7 +2216,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.6.27.166",
+	"ver": "25.06.16.0743",
 	"application": "datamodeller",
 	"title": "",
 	"description": "",
